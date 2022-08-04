@@ -1,0 +1,27 @@
+Business Logic
+
+//API CAll
+//Data Classes, Retrofit Implementation, Repository
+//Dependency Injection
+//ViewModel
+
+
+UI
+
+//An Activity with Navigation graph
+//Fragments
+//Design my views
+
+
+Details
+
+//API Call => Base URLs, Check endpoints
+//Data Classes => Create them
+//Retrofit Implementation => Okhttp interceptor, Builder, Converter (GSON)
+//Dependency Injection => Add Libraries, mention in manifest/App level, create modules
+
+Dependency Injection Info
+
+// @Module
+// @Provides / @Binds
+// @
